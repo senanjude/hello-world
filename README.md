@@ -1,2 +1,3 @@
 # hello-world
-first repo
+Hi i am Senan Jude
+  im a student at nitc 
